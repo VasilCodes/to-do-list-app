@@ -1,0 +1,10 @@
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\bin\Release\To-Do List App.exe.config
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\bin\Release\To-Do List App.exe
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\bin\Release\To-Do List App.pdb
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\obj\Release\To-Do List App.csproj.AssemblyReference.cache
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\obj\Release\To_Do_List_App.Form1.resources
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\obj\Release\To_Do_List_App.Properties.Resources.resources
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\obj\Release\To-Do List App.csproj.GenerateResource.cache
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\obj\Release\To-Do List App.csproj.CoreCompileInputs.cache
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\obj\Release\To-Do List App.exe
+C:\Users\Vasil Tyulev\OneDrive\Работен плот\To-Do List App\To-Do List App\obj\Release\To-Do List App.pdb
